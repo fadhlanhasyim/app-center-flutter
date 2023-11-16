@@ -1,5 +1,7 @@
 # Flutter with App Center
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/a6be0f43-38ea-4ffd-a3b5-493252d2f31a/branches/main/badge)](https://appcenter.ms)
+
 A new Flutter project.
 
 ## Getting Started
